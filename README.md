@@ -1,7 +1,7 @@
  Fastag Fraud Detection Project
 
 ## Overview
-Welcome to the Fastag Fraud Detection project repository. This project is dedicated to detecting fraudulent transactions within the Fastag electronic toll collection system. The goal is to leverage machine learning techniques to enhance fraud detection capabilities and ensure the integrity of transactional data.
+Welcome to the Fastag Fraud Detection project repository. This project focuses on detecting fraudulent transactions within the Fastag electronic toll collection system. I leverage machine learning techniques to enhance fraud detection capabilities and ensure the integrity of transactional data.
 
 ## Project Files
 - **FastagFraudDetection.csv**: Dataset containing transactional records relevant to Fastag operations.
